@@ -100915,9 +100915,9 @@
       "chainId": 101,
       "address": "5B7vJfjKYTzxMphzZ7GQYzdnpLhRRudcKRmiDoUezMc2",
       "symbol": "BARC",
-      "name": "Barcoin",
+      "name": "BarCoin",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Barcoin-io/Barcoin/main/No%20Slogan/Transparent.png",
+      "logoURI": "https://raw.githubusercontent.com/Barcoin-io/Barcoin/main/Symbol/Symbol.png",
       "tags": [
         "social-token"
       ]
